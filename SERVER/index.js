@@ -29,7 +29,8 @@ app.use(cookieParser())
 // Line 28 to 33 are very important --> (HW : explore this more)
 app.use(
   cors({
-    origin: 'http://localhost:3000',
+    origin: 'https://study-notion-edtech-sigma.vercel.app/',
+    methods : ["GET" , "POST" , "HEAD" , "PUT" , "PATCH" , "DELETE"],
     credentials: true
   })
 )
