@@ -1,4 +1,4 @@
-## StudyNotion
+## StudyNotion :- https://study-notion-ed-pearl.vercel.app/
 Study Notion is an EdTech (Education Technology) web application developed using the MERN stack. It is an innovative EdTech platform where instructors can upload their courses and track their progress through visually engaging pie charts , thanks to Chart.js npm package. The website is built on ReactJS, TailwindCSS, while its backend supported by by NodeJS (ExpressJs) and MongoDB database. For payment processing, StudyNotion employs Razorpay and media data is securely stored on Cloudinary servers. Apart from this , the website incorporates Dicebear's API to automatically generate unique profile pictures for users showing initials of their name and surname.
 
 ## System Architecture Diagram :
