@@ -1,5 +1,5 @@
 import React from 'react'
-import ContactUsForm from '../components/common/ContactUsForm'
+import ContactUsForm from '../components/core/ContactUsPage/ContactUsForm'
 import *as Icon1 from "react-icons/hi2";
 import *as Icon2 from "react-icons/fa6";
 import *as Icon3 from "react-icons/io5";
